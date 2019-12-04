@@ -1,9 +1,3 @@
-{
-  margin: 0;
-  padding: 0;
-  font-family: arial;
-}
-
 body {
   background-size: cover;
   height: 100%;
@@ -27,6 +21,7 @@ nav ul li {
   display: block;
   float:left;
 }
+
 nav a {
   display:block;
   padding: 0 15px 0 15px;
@@ -62,6 +57,7 @@ nav ul li:hover ul {
 .kuva {
   padding: 40px;
 }
+
 .content {
   width: 900px;
   background-color: rgba(230,230,230,0.7);
