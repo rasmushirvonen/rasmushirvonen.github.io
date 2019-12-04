@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+ <head>
+	<meta charset="utf-8>
+	<title>Pakohuone</title>
+	<link rel="stylesheet" href="style.css">
+
+ </head>
+<body>
+
+	<div id="wrapper">
+
+
+<nav>
+
+<p>XONE Room</p>
+ <ul>
+	<li> <a href-"#">Etu sivu</a></li>
+	 <li><a href-"#">Huoneet</a></li>
+		<ul>
+			<li><a href-"#">Pako Saunamökistä</a></li>
+			<li><a href-"#">Hulluntohtrin Legenda</a></li>
+			<li><a href-"#">Coming Soon</a></li>
+		</ul>
+	</li>
+	<li><a href-"#kuva">Mustavalko kuva</a></li>
+ </ul>
+ <p class="right small">Pakohuone</p>
+</nav>
+
+	<div class="content">
+	 <h1>h1 -otsikko</h1>
+	 <p>Paragraph-tekstiä</p>
+	</div>
+
+     </div>
+
+</body>
+</html>
