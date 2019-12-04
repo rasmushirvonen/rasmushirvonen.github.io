@@ -28,13 +28,20 @@ nav a {
 
 nav a:hover {
   background-color: #484747;
-  
-}
+ }
 
 nav ul li ul {
   position:absolute;
   background-color: rgba(40,40,40,0.8);
   width:140px;
+}
+
+nav ul li ul li {
+  width:140px;
+}
+
+nav ul li ul {
+  display:none;
 }
 
 nav ul li:hover ul {
