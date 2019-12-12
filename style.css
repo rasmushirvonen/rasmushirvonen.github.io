@@ -66,3 +66,12 @@ nav ul li:hover ul {
   color: black;
   background-color; white;
 }
+
+.right {
+  float: right;
+}
+
+.small {
+  font-size: 10px;
+}
+
